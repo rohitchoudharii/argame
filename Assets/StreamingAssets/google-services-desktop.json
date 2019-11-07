@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601693787300",
+    "firebase_url": "https://ar-game-89232.firebaseio.com",
+    "project_id": "ar-game-89232",
+    "storage_bucket": "ar-game-89232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601693787300:android:3f1ecbaa43980932",
+        "android_client_info": {
+          "package_name": "com.ITSA.Argame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601693787300-53skbmopq2hhqcp9qg78vqkk4t4ck9oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKNaOtEtbnBC-1FvvV2cQrwnfJKiwdd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601693787300-53skbmopq2hhqcp9qg78vqkk4t4ck9oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
